@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Scott Dance",
+            "title": "NOAA winter outlook: Cold, stormy in northern tier with drought south - The Washington Post",
+            "description": "NOAA’s outlook calls for La Niña-influenced warmth across the nation’s south, but colder, stormier conditions to the north with likely ‘week-to-week variability.'",
+            "url": "https://www.washingtonpost.com/climate-environment/2022/10/20/noaa-winter-outlook-drought-lanina/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AI6IFXAN3OWTP77BIB7NQMYLWM.jpg&w=1440",
+            "publishedAt": "2022-10-20T18:25:38Z",
+            "content": "Comment on this story\r\nNOAA forecasters are predicting a mild and dry winter ahead for the southern tier of the United States, including already drought-stricken areas in the lower Mississippi River … [+5453 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian music",
+            "title": "Joni Mitchell to play first headline concert in 23 years - The Guardian",
+            "description": "The singer will perform at Washington’s Gorge Amphitheatre next June after recoveing from a brain aneurysm in 2015",
+            "url": "https://www.theguardian.com/music/2022/oct/20/joni-mitchell-headline-concert-2023-washington",
+            "urlToImage": "https://i.guim.co.uk/img/media/1e022e7f6d03003cf8d171fda38d8db99c3584fe/0_104_3696_2219/master/3696.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f6534636c4703dc34daac35701a03e59",
+            "publishedAt": "2022-10-20T17:53:00Z",
+            "content": "Joni Mitchell is set to perform at her first headline concert in 23 years.\r\nThe singer will take the stage at Washingtons Gorge Amphitheatre on 10 June 2023, news that was initially revealed by Brand… [+1769 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sarah Whitten",
+            "title": "The Rock's 'Black Adam' is a bland, 'color-by-numbers' DC Comics superhero movie, critics say - CNBC",
+            "description": "Not even Dwayne \"The Rock\" Johnson could salvage the Warner Bros.' latest entrant into the DC Extended Universe, \"Black Adam.\"",
+            "url": "https://www.cnbc.com/2022/10/20/black-adam-reviews-the-rock-bland-predictable.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107138019-1666273130877-black_adam_Cropped.jpg?v=1666286495&w=1920&h=1080",
+            "publishedAt": "2022-10-20T17:21:35Z",
+            "content": "Dwayne Johnson stars in Warner Bros.' \"Black Adam.\"\r\nNot even Dwayne \"The Rock\" Johnson could salvage Warner Bros.' latest entrant into the DC Extended Universe.\r\n\"Black Adam,\" which premieres Friday… [+5908 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Rob Picheta, Aditi Sangal",
+            "title": "Liz Truss resigns as UK prime minister: Live updates - CNN",
+            "description": "A statement is about to made in Downing Street amid calls for Liz Truss to resign as Britain's prime minister after a disastrous six-week tenure. Get live updates here.",
+            "url": "https://www.cnn.com/uk/live-news/liz-truss-prime-minister-intl-gbr/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221006111737-01-truss-budget.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-20T16:59:00Z",
+            "content": "A new leadership contest will take place within a week, Liz Truss said in her resignation speech.\r\nThis will be the fifth Conservative prime minister in just over six years and the third within this … [+4789 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Arden Farhi, Kathryn Krupnik",
+            "title": "NORAD F-16 fighter jet intercepted small plane in restricted airspace near Biden speech in California - CBS News",
+            "description": "The incident occurred over Santa Ana last week, about 12 miles from the community college where Biden was speaking.",
+            "url": "https://www.cbsnews.com/news/f-16-fighter-jet-norad-intercepted-restricted-airspace-biden/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/10/20/03009d17-f17c-40ba-8abb-add60a028009/thumbnail/1200x630/8c6985f724a3749428af77652db77cef/gettyimages-1433464585.jpg",
+            "publishedAt": "2022-10-20T16:36:00Z",
+            "content": "President Joe Biden stands after delivering remarks on lowering costs for American families at Irvine Valley College in Orange County on October 14, 2022 in Irvine, California. \r\nMario Tama / Getty I… [+2466 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Kevin Breuninger",
+            "title": "Trump lashes out at judge who said former president knowingly pushed false voter fraud case - CNBC",
+            "description": "U.S. District Judge David Carter ordered pro-Trump attorney John Eastman to turn over dozens of documents to the House probe of the Jan. 6 Capitol riot.",
+            "url": "https://www.cnbc.com/2022/10/20/trump-slams-judge-who-said-he-knowingly-pushed-false-voter-fraud-case.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107128112-16648002942022-10-01t234402z_1687385438_rc2nsw9vgbxa_rtrmadp_0_usa-trump.jpeg?v=1666281951&w=1920&h=1080",
+            "publishedAt": "2022-10-20T16:05:51Z",
+            "content": "Former President Donald Trump lashed out Thursday after a federal judge wrote that Trump knowingly pushed false claims of voter fraud while he was fighting his 2020 election loss.\r\nTrump, in a post o… [+4303 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "Genetic sequencing gives us the first-ever look at a Neanderthal clan - NPR",
+            "description": "\"You know, this image of Neanderthals being brutes, is not quite accurate,\" says paleogenticist Laurits Skov. \"The more we learn about them, the more like humans they appear to be.\"",
+            "url": "https://www.npr.org/2022/10/20/1130170913/neanderthal-clan-family-genetic-sequencing",
+            "urlToImage": "https://media.npr.org/assets/img/2022/10/20/gettyimages-938562936_wide-6883761445062d2195d4369dd49b5c98d6f05d38-s1400-c100.jpg",
+            "publishedAt": "2022-10-20T15:31:03Z",
+            "content": "A Neanderthal skeleton on display in 2018 at the Musee de l'Homme in Paris. Researchers extracted DNA from bones found in Russia to learn more about how their communities were organized.\r\nStephane de… [+4363 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Fantasy Football Week 7 Start 'Em & Sit 'Em: Ride Cowboys' skill players, Dak Prescott, Travis Etienne, more - CBS Sports",
+            "description": "Players who should and should not be in your lineups for Week 7",
+            "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-7-start-em-sit-em-ride-cowboys-skill-players-dak-prescott-travis-etienne-more/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/10/19/ae0a9caf-a691-447a-a1a3-43e13f5ae07f/thumbnail/1200x675/960295957e4630c7d1a59709ea48f7c4/cowboys-2-1400-us.jpg",
+            "publishedAt": "2022-10-20T15:26:00Z",
+            "content": "By this point in the season, you should have a pretty good idea if your Fantasy team is a contender or not. Even if you're a .500 team heading into Week 7, you should be able to figure out if you hav… [+4038 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "'Ben Simmons was AWFUL last night, NO FACTOR whatsoever' - Stephen A. on the Nets' loss | First Take - ESPN",
+            "description": "'Ben Simmons was AWFUL last night, NO FACTOR whatsoever' - Stephen A. on the Nets' loss | First TakeOn First Take, Stephen A. Smith and Kendrick Perkins reac...",
+            "url": "https://www.youtube.com/watch?v=5JNNYCjR91I",
+            "urlToImage": "https://i.ytimg.com/vi/5JNNYCjR91I/maxresdefault.jpg",
+            "publishedAt": "2022-10-20T14:40:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Melissa Repko",
+            "title": "Big bargains will dominate the holiday season, but shoppers may not be sold - CNBC",
+            "description": "Retailers are discounting computers, toys and more to try to sell off excess inventory and encourage budget-conscious shoppers to spend.",
+            "url": "https://www.cnbc.com/2022/10/20/inflation-weary-shoppers-see-more-holiday-sales-2022.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106992129-1640090624214-gettyimages-1237359066-AFP_9V23W4.jpeg?v=1666276613&w=1920&h=1080",
+            "publishedAt": "2022-10-20T14:36:53Z",
+            "content": "People walk stores offering sales at a shopping mall in Santa Anita, California on December 20, 2021.\r\nGrocery and energy prices have spiked, and credit card interest rates are climbing, but shoppers… [+5812 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Boyette, Jamie Gumbrecht",
+            "title": "An early rise in respiratory viruses in children is overwhelming some hospitals - CNN",
+            "description": "A surge in respiratory illnesses among children is beginning to put a strain on hospitals.",
+            "url": "https://www.cnn.com/2022/10/20/health/respiratory-viruses-hospitals/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221020083519-connecticut-childrens-hospital-in-hartford-1020.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-20T14:36:00Z",
+            "content": "A surge in respiratory illnesses among children is beginning to put a strain on hospitals.\r\nIn particular, hospitals are seeing a rise in cases of respiratory syncytial virus, or RSV, a common cold v… [+4039 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Anthony Wood",
+            "title": "Scientists Just Witnessed One of the Most Powerful Cosmic Explosions Ever - IGN",
+            "description": "Astronomers have captured the aftermath of a dramatic gamma-ray burst, which was likely triggered by the death of an enormous star, and the brightest cosmic explosion ever detected.",
+            "url": "https://www.ign.com/articles/astronomy-gamma-ray-burst-nasa-black-hole-star",
+            "urlToImage": "https://assets-prd.ignimgs.com/2022/10/20/gamma-ray-burst-thumbnail-1666273846332.jpg?width=1280",
+            "publishedAt": "2022-10-20T14:29:46Z",
+            "content": "Scientists have detected a phenomenally powerful outburst of cosmic radiation - known as a gamma-ray burst - which likely occured when an enormous star died and transformed into an all-consuming blac… [+2846 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Jamie Ross, Tess Homan",
+            "title": "The 7 things you need to know for Thursday, October 20 - The Washington Post",
+            "description": "Catch up in minutes with these 7 stories.",
+            "url": "https://www.washingtonpost.com/the-seven/2022/10/20/what-to-know-for-october-20/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7O355LBRWFHVHFTV23QAWKMIOI.png&w=1440",
+            "publishedAt": "2022-10-20T14:29:08Z",
+            "content": "Russia declared martial law in parts of Ukraineyesterday.\r\n<ul><li>\r\nWhere? Four regions illegally claimed by Russian President Vladimir Putin after staged referendums last month Donetsk, Luhansk, Kh… [+2827 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Study Finds"
+            },
+            "author": "Study Finds",
+            "title": "Diabetes, arthritis, and multiple sclerosis trace their roots back to the Black Death - Study Finds",
+            "description": "Researchers say the bubonic plague that ravaged Middle Age Europe fueled genes that make people vulnerable to autoimmune diseases today.",
+            "url": "https://studyfinds.org/autoimmune-disease-black-death/",
+            "urlToImage": "https://studyfinds.org/wp-content/uploads/2022/10/diabetes-arthri-903753-scaled.jpg",
+            "publishedAt": "2022-10-20T14:27:04Z",
+            "content": "HAMILTON, Ontario — Diabetes, arthritis, and multiple sclerosis can all trace their origins back to the Black Death, according to new research. Researchers from McMaster University say the bubonic pl… [+5287 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Taylor Nicioli",
+            "title": "From Comet Halley, Orionid meteor shower is most visible this week - CNN",
+            "description": "The Orionids meteor shower will be at its most consistent early Friday, October 21, at a rate of 10 to 20 visible meteors an hour.",
+            "url": "https://www.cnn.com/2022/10/20/world/meteor-shower-october-orionids-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221018141050-orionids-meteor-shower-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-20T14:20:00Z",
+            "content": "One of natures most anticipated light shows is set to climax this week, as space debris and dust trails from the famous Comet Halley scatter across the night sky.\r\nThe Orionids meteor shower is expec… [+3990 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": "Gregg Rosenthal",
+            "title": "Week 7 NFL game picks: Saints top Cardinals on Thursday night; Jaguars end Giants' win streak - NFL.com",
+            "description": "Who will earn a much-needed win on Thursday night: New Orleans or Arizona? Can the struggling Jaguars cool off the red-hot Giants? Gregg Rosenthal makes his picks for every Week 7 game.",
+            "url": "https://www.nfl.com/news/week-7-nfl-game-picks-2022-nfl-season",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/jyvpsrwq1iabvdnedu9n",
+            "publishedAt": "2022-10-20T14:18:00Z",
+            "content": "Two of the NFLs most erratic yet watchable teams face off in a cornered-animal game where its going to get dark for the losing coach. The Saints secondary has gone from a strength to a weakness, but … [+508 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "James Hibberd",
+            "title": "‘The Crown’ Season 5 Trailer Shows Monarchy in Chaos Amid Netflix Criticism - Hollywood Reporter",
+            "description": "Logo text Netflix has released the trailer for The Crown’s fifth season, which shows the monarchy in chaos and foreshadows the fate of Princess Diana. “The royal family is in genuine crisis,” declares Martin Bashir (Prasanna Puwanarajah) in the trailer (below…",
+            "url": "https://www.hollywoodreporter.com/tv/tv-news/the-crown-season-5-trailer-netflix-1235244957/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/10/crown_diana.jpg?w=1024",
+            "publishedAt": "2022-10-20T14:00:23Z",
+            "content": "Netflix has released the trailer for The Crown’s fifth season, which shows the monarchy in chaos and foreshadows the fate of Princess Diana.\r\n“The royal family is in genuine crisis,” declares Martin … [+3296 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Diana Olick",
+            "title": "Existing home sales fall to a 10-year low in September, as mortgage rates soar - CNBC",
+            "description": "Sales of previously owned homes fell 1.5% in September from August to a seasonally adjusted annual rate of 4.71 million units.",
+            "url": "https://www.cnbc.com/2022/10/20/existing-home-sales-fall-to-a-10-year-low-in-september.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106809231-1607605647320-gettyimages-1229468487-US-NEWS-CALIFORNIA-EXODUS-3-ID.jpeg?v=1666274404&w=1920&h=1080",
+            "publishedAt": "2022-10-20T14:00:04Z",
+            "content": "Existing homes are selling at the slowest pace since September 2012, with the exception of a brief drop at the start of the Covid 19 pandemic.\r\nSales of previously owned homes fell 1.5% in September … [+2195 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Keith Reed",
+            "title": "A Man In Cali Is Suing Cardi B Over An Image Literally Nobody Thought Was Him - Yahoo Life",
+            "description": "I doubt anyone’s ever bought or streamed Cardi B’s music to admire the accompanying album artwork, but here we are. A man in California is suing the rapper, ...",
+            "url": "https://www.yahoo.com/lifestyle/man-cali-suing-cardi-b-140000042.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/L5dtRlT0g52GQufTfX7TpQ--~B/aD00MjM7dz02MzY7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_root_754/4afbd1ed44ee675ef3ec3a348d7b539e",
+            "publishedAt": "2022-10-20T14:00:00Z",
+            "content": "Cardi B arrives at a photo call for Hustlers on Aug. 25, 2019, in Beverly Hills, Calif . The rapper turns 30 on Oct. 11.\r\nI doubt anyones ever bought or streamed Cardi Bs music to admire the accompan… [+1720 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Ellen Francis",
+            "title": "NASA Webb telescope captures new image of ‘Pillars of Creation’ - The Washington Post",
+            "description": "NASA’s James Webb Space Telescope captured sparkling newborn stars in a cosmic site 6,500 miles known as the « Pillars of Creation. »",
+            "url": "https://www.washingtonpost.com/science/2022/10/20/nasa-webb-telescope-pillars-of-creation-stars/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T7NTOICQJAI63LNIATTONP4LDE.jpg&w=1440",
+            "publishedAt": "2022-10-20T13:57:00Z",
+            "content": "Comment on this story\r\nNASAs James Webb Space Telescope has captured a new view of an iconic cosmic site: the region known as the Pillars of Creation, where stars are born.\r\nThe U.S. space agencys Hu… [+1917 chars]"
+        }
+    ]
+}
